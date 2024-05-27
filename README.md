@@ -1,7 +1,7 @@
 ____
 # Food
 ____
-[Site](https://1kiritos1.github.io/food/)
+[Site](https://devf1s.github.io/food/)
 
 ### Used:
 * ***HTML***
